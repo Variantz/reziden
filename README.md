@@ -1,0 +1,2 @@
+# reziden
+reziden platform
